@@ -16,7 +16,7 @@ export default function Lessons({ sections }) {
         <meta name="keywords" content={courseInfo.keywords.join(",")}></meta>
         <meta name="og:description" content={courseInfo.description}></meta>
         <meta name="og:title" content={courseInfo.title}></meta>
-        <meta name="og:image" content={`/images/social-share-cover.jpg`}></meta>
+        <meta name="og:image" content={`/images/social-share-cover-new.jpg`}></meta>
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
       <div>
@@ -28,7 +28,7 @@ export default function Lessons({ sections }) {
               <div className="author">
                 <div className="image">
                   <img
-                    src={`/images/author.jpg`}
+                    src={`/images/new_author.jpg`}
                     alt="author image"
                     className="image"
                   />

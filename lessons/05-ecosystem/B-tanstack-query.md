@@ -136,5 +136,5 @@ That's it! React Query is both simple to use and super flexible to handle a toug
 
 > 🏁 [Click here to see the state of the project up until now: 10-query][step]
 
-[step]: https://github.com/btholt/citr-v9-project/tree/master/10-query
+[step]: https://github.com/AymenSakouhi/citr-v9-project/tree/master/10-query
 [tsq]: https://tanstack.com/query/latest

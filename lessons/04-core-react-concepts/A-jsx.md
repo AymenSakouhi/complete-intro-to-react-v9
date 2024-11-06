@@ -138,7 +138,7 @@ You can test your app by running `npm run dev` and opening the URL shown in the 
 
 For this course we will use a little Fastify server I built for you. It's in the [api][api] directory. We are going to use Vite.js to proxy to this API server. This is a useful trick to do for local development if you have a separate frontend in a backend. Normally you'd have something like NGINX routing traffic to separate frontend and backend servers. For now we'll just use Vite.
 
-> Note: This means you'll need to have TWO terminal windows running. One terminal for the API server (which you won't have to touch once it's running). The other terminal is is our Vite server for our web app. 
+> Note: This means you'll need to have TWO terminal windows running. One terminal for the API server (which you won't have to touch once it's running). The other terminal is is our Vite server for our web app.
 
 Add this to you vite.config.js
 
@@ -191,6 +191,6 @@ And now you should have images!
 
 [airbnb]: https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb
 [standard]: https://standardjs.com/
-[step]: https://github.com/btholt/citr-v9-project/tree/master/03-jsx
-[api]: https://github.com/btholt/citr-v9-project/tree/main/api
-[eslint]: https://github.com/btholt/citr-v9-project/blob/main/03-jsx/eslint.config.mjs
+[step]: https://github.com/AymenSakouhi/citr-v9-project/tree/master/03-jsx
+[api]: https://github.com/AymenSakouhi/citr-v9-project/tree/main/api
+[eslint]: https://github.com/AymenSakouhi/citr-v9-project/blob/main/03-jsx/eslint.config.mjs

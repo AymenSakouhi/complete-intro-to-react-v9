@@ -84,4 +84,4 @@ Now we have a more flexible component that accepts props from its parent. Props 
 
 > 🏁 [Click here to see the state of the project up until now: 01-no-frills-react][step]
 
-[step]: https://github.com/btholt/citr-v9-project/tree/master/01-no-frills-react
+[step]: https://github.com/AymenSakouhi/citr-v9-project/tree/master/01-no-frills-react

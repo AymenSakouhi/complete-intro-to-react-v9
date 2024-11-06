@@ -79,4 +79,4 @@ async function fetchPizzaTypes() {
 
 > 🏁 [Click here to see the state of the project up until now: 05-effects][step]
 
-[step]: https://github.com/btholt/citr-v9-project/tree/master/05-effects
+[step]: https://github.com/AymenSakouhi/citr-v9-project/tree/master/05-effects

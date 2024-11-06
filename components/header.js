@@ -12,11 +12,15 @@ export default function Header(props) {
         <Link href="/">{props.title}</Link>
       </h1>
       <div className="navbar-info">
-        {frontendMastersLink ? (
+        {
+          // Todo - CTA LINK
+          // In case there is something to add later
+        }
+        {/* frontendMastersLink ? (
           <a href={frontendMastersLink} className="cta-btn">
             Watch on Frontend Masters
           </a>
-        ) : null}
+        ) : null */}
         {section ? (
           <h2>
             {section} <i className={`fas fa-${icon}`} /> {title}

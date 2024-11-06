@@ -103,7 +103,7 @@ Now, if you want to, go add a `throw new Error("lol");` in your render function 
 
 > 🏁 [Click here to see the state of the project up until now: 12-error-boundaries][step]
 
-[step]: https://github.com/btholt/citr-v9-project/tree/master/12-error-boundaries
+[step]: https://github.com/AymenSakouhi/citr-v9-project/tree/master/12-error-boundaries
 [sentry]: https://sentry.io/
 [trackjs]: https://trackjs.com/
 [dry]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself

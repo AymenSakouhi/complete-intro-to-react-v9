@@ -79,5 +79,5 @@ This is about the simplest React app you can build.
 > ReactDOM.createRoot is a new API as of React v18. The old `ReactDOM.render` is still available (and deprecated) but it'll render your app in "legacy" mode which won't use all the fun new features packed into React v18.
 
 [webdev]: https://frontendmasters.com/courses/web-development-v3/
-[style]: https://github.com/btholt/citr-v9-project/blob/main/api/public/style.css
+[style]: https://github.com/AymenSakouhi/citr-v9-project/blob/main/api/public/style.css
 [serve]: https://github.com/vercel/serve

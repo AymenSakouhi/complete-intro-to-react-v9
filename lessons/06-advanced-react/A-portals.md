@@ -76,7 +76,7 @@ Cool, let's go use this to render our Modal now. Open `past.lazy.jsx`. Make the 
 <td>{order.time}</td>
 ```
 
-Then render the modal if we have a `focusedOrder`: 
+Then render the modal if we have a `focusedOrder`:
 
 ```javascript
 // import at top
@@ -149,4 +149,4 @@ That's it!
 
 > 🏁 [Click here to see the state of the project up until now: 11-modals][step]
 
-[step]: https://github.com/btholt/citr-v9-project/tree/master/11-modals
+[step]: https://github.com/AymenSakouhi/citr-v9-project/tree/master/11-modals

@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "license": "(CC-BY-NC-4.0 OR Apache-2.0)",
-  "author": "Brian Holt <btholt+next-course-starter@gmail.com>",
+  "author": "Aymen Sakouhi <***@gmail.com> //hiding for privacy",
   "scripts": {
     "dev": "next dev",
     "build": "next build && npm run csv",

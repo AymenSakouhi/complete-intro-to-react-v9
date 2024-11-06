@@ -20,6 +20,6 @@ The code, including the code of the site itself and the code in the exercises, a
 
 [fem]: https://frontendmasters.com/workshops/complete-react-v9/
 [course]: https://react-v9.holt.courses
-[project]: https://github.com/btholt/citr-v9-project/
+[project]: https://github.com/AymenSakouhi/citr-v9-project/
 
 [React icons created by Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/react)

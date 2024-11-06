@@ -114,4 +114,4 @@ Now open your React Dev Tools and inspect our PizzaOfTheDay component. You'll se
 
 > 🏁 [Click here to see the state of the project up until now: 06-custom-hooks][step]
 
-[step]: https://github.com/btholt/citr-v9-project/tree/master/06-custom-hooks
+[step]: https://github.com/AymenSakouhi/citr-v9-project/tree/master/06-custom-hooks

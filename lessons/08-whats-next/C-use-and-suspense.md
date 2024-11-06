@@ -85,6 +85,6 @@ const data = use(loadedPromise);
 
 > 🏁 [Click here to see the state of the project up until now: 16-use][step]
 
-[step]: https://github.com/btholt/citr-v9-project/tree/master/16-use
+[step]: https://github.com/AymenSakouhi/citr-v9-project/tree/master/16-use
 [tsq-suspense]: https://tanstack.com/query/v5/docs/framework/react/guides/suspense
 [use]: https://react.dev/reference/react/use
